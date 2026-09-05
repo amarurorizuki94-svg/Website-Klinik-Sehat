@@ -1,0 +1,6 @@
+{
+  "name": "Klinik Medika Harmony",
+  "description": "Website resmi Klinik Medika Harmony - Klinik kesehatan modern dengan layanan dokter spesialis, booking konsultasi online, jadwal praktek, dan fasilitas medis terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
